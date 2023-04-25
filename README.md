@@ -2,6 +2,8 @@
 
 This is a basic Python calculator program that performs simple arithmetic operations such as addition, subtraction, multiplication, division, exponentiation, logarithm, and square root.
 
+![10_multi_functional_calculator](https://user-images.githubusercontent.com/29802859/234272796-26232207-865f-4245-986d-a86d85e5b629.gif)
+
 ## Program's Feature
 
 - Supports basic and advanced arithmetic operations
