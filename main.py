@@ -1,4 +1,4 @@
-import math, os
+import math, os, art
 
 def add (n1, n2):
     return n1 + n2
@@ -23,6 +23,7 @@ def square_root(n1):
 
 def calculator():
     clear()
+    print(art.logo)
     num1 = float(input("Enter First Number: "))
 
     should_run = True
@@ -55,6 +56,7 @@ def calculator():
             print(f"Current Answer: {answer}")
         elif user_choice == 'n':
             should_run = False
+            print("Thank you for using the program. Goodbye!")
         else:
             should_run = False
             calculator()            
